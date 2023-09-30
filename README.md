@@ -1,6 +1,1 @@
-Hey There :)
-- I’m interested in Cybersecurity, Software Engineering and Linux Gaming
-- I've an MSc and a BSc Hons in Computer Science
-- I’m looking to collaborate on any of the software which I currently use on a day to day basis
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PussInScreen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PussInScreen&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
